@@ -60,6 +60,11 @@ claude plugins install github:anthropics/claude-plugins-official
 # then enable: claude plugins enable frontend-design@claude-plugins-official
 ```
 
+**[andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)** — CLAUDE.md guidelines distilled from Andrej Karpathy's coding principles
+```bash
+claude plugins install github:forrestchang/andrej-karpathy-skills
+```
+
 ---
 
 ## Customize
