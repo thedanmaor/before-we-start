@@ -1,0 +1,13 @@
+{
+  "name": "before-we-start",
+  "description": "Pre-session ritual for Claude Code: flush memory, verify plugins, show context usage, and guide compact + clear.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Dan Maor",
+    "url": "https://github.com/thedanmaor"
+  },
+  "homepage": "https://github.com/thedanmaor/before-we-start",
+  "repository": "https://github.com/thedanmaor/before-we-start",
+  "license": "MIT",
+  "keywords": ["session", "memory", "compact", "housekeeping", "plugins", "context"]
+}
